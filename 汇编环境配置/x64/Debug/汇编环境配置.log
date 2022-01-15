@@ -1,0 +1,5 @@
+﻿  Assembling test.asm...
+test.asm(1): error A2008: syntax error : .
+test.asm(2): error A2008: syntax error : .
+test.asm(5): fatal error A1000: cannot open file : msvcrt.inc
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\BuildCustomizations\masm.targets(69,5): error MSB3721: 命令“ml64.exe /c /nologo /Zi /Fo"x64\Debug\test.obj" /W3 /errorReport:prompt  /Tatest.asm”已退出，返回代码为 1。

@@ -1,0 +1,7 @@
+﻿  Assembling test.asm...
+test.asm(1075): warning A6004: procedure argument or local not referenced : hWnd
+test.asm(1255): warning A6004: procedure argument or local not referenced : @stRect
+test.asm(1255): warning A6004: procedure argument or local not referenced : @oldPen
+test.asm(1299): warning A6004: procedure argument or local not referenced : @redbru
+test.obj : warning LNK4258: 指令“/ENTRY:main@0”与开关“/ENTRY:main”不兼容；已忽略
+  汇编环境配置.vcxproj -> D:\汇编\汇编环境配置\Debug\汇编环境配置.exe
